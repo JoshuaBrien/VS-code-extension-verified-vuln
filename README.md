@@ -1,0 +1,1 @@
+Apparently you can make "verified extensions". To put it very simply, copy some values over from the package.json of the extension you're mimicking and now you have a "verified" extension. How to fix: get it from the source directly. More info here https://www.ox.security/can-you-trust-that-verified-symbol-exploiting-ide-extensions-is-easier-than-it-should-be/
